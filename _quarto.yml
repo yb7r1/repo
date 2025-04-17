@@ -6,11 +6,11 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "Application of LIME and SHAP to Credit Scoring Models"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+    - Ruoqi Li (rl3489)
+    - yb Liu (yl5714)
+  repo-url: https://github.com/yb7r1/repo.git
   date: today
   page-footer:
     right: |
